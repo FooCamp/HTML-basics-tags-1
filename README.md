@@ -1,7 +1,7 @@
 # HTML-basics-tags-1
 HTML basic tags. review semantic elements, texts, images, videos, lists, anchors, and others.
 
-There is an applied styled for delivery and presentational purposes. This exercise don't cover style lessons.
+There is an applied styled for delivery and presentational purposes. This exercise doesn't cover style lessons.
 
 ## Instructions
 
