@@ -35,8 +35,14 @@
             la segunda generación, es la forma evolucionada de Pichu.
           </p>
           <video controls autoplay muted width="300">
-            <source src="assets/Blogs/pikachu/assets/pikachu.webm" type="video/webm">
-            <source src="assets/Blogs/pikachu/assets/pikachu.mp4" type="video/mp4">
+            <source
+              src="assets/Blogs/pikachu/assets/pikachu.webm#t=20,30"
+              type="video/webm"
+            />
+            <source
+              src="assets/Blogs/pikachu/assets/pikachu.mp4"
+              type="video/mp4"
+            />
           </video>
         </section>
         <section>
@@ -51,9 +57,13 @@
           </p>
           <section>
             <h3>Fisiología</h3>
+            <!-- Aquí hago uso del div para agrupar etiquetas. 
+              Usar div solo cuando no haya otra etiqueta
+               semántica que pueda usarse en su lugar -->
             <div>
               <figure>
                 <img
+                  loading="lazy"
                   alt="A herd of pikachus"
                   src="assets/Blogs/pikachu/assets/pikachu_herd.webp"
                 />
